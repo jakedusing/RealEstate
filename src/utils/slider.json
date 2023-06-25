@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Elysian Manor",
+    "price": "478,043",
+    "detail": "Elysian Manor is an exquisite residence nestled in a lush, idyllic setting. This stately home combines classic architectural elements with modern luxuries, offering a seamless blend of elegance and comfort. With sprawling gardens, meticulously crafted interiors, and breathtaking views, Elysian Manor is a sanctuary of refined living.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Opulent Oasis",
+    "price": "662,353",
+    "detail": "Opulent Oasis is an architectural masterpiece that transports you to a world of opulence and tranquility. This lavish estate boasts a harmonious fusion of grandeur and contemporary design. From the moment you enter, you are greeted by awe-inspiring spaces, lavish amenities, and an abundance of natural light. Opulent Oasis is an escape from the ordinary, offering a sanctuary of indulgence and relaxation.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Chateau Magnifique",
+    "price": "735,853",
+    "detail": "Château Magnifique is a majestic French-inspired residence that evokes the splendor of a bygone era. This palatial estate showcases intricate detailing, soaring ceilings, and an aura of refined sophistication. From the grand ballroom to the meticulously landscaped grounds, Château Magnifique is a symbol of elegance and timeless beauty.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Villa Serenita",
+    "price": "547,043",
+    "detail": "Villa Serenità is a tranquil haven that exudes an aura of calm and serenity. Nestled amidst lush greenery and overlooking serene water features, this Mediterranean-inspired villa offers a seamless integration of indoor and outdoor living. With its charming courtyards, picturesque terraces, and a soothing atmosphere, Villa Serenità is a sanctuary where one can escape the hustle and bustle of everyday life.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Grandeur Palace",
+    "price": "866,353",
+    "detail": "Grandeur Palace is a remarkable residence that embodies the epitome of luxury living. With its grand facade, sweeping staircases, and ornate interiors, this palatial home is a testament to refined taste and extravagant living. Every detail of Grandeur Palace is meticulously curated to create a sense of awe and splendor, offering an unparalleled living experience.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Regal Haven",
+    "price": "635,853",
+    "detail": "Regal Haven is a residence that effortlessly blends regal charm with modern comforts. This elegant home features tastefully designed spaces adorned with luxurious finishes and meticulous attention to detail. With its spacious rooms, cozy lounges, and private retreats, Regal Haven offers a welcoming sanctuary for relaxation and sophisticated living.",
+    "image": "./r3.png"
+  }
+]
